@@ -1,0 +1,14 @@
+[Liens de téléchargement]
+
+Statut : 
+-En cours d'arrêt : La version est encore utilisée et il n'y a pas encore la mise a jour qui est sortie. La mise a jour sortira dans les 20 prochaines minutes max.
+-Arrêtée : La version n'est plus supportée et n'est plus utilisé par personne
+-Fonctionne : Version actuelle.
+
+Astuce : pensez à faire CTRL + R pour mettre a jour la page. 
+
+========================================================================================
+Lien : https://mega.nz/file/xjMVQbzA#RrsYDlf2X-qFBTHebLVZC1rlkdu4d_rmQBzI9W4i_Xo
+Statut : Fonctionne
+Version : V1.2.2
+Date de sortie : 01/05/2024 19:04
